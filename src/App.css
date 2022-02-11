@@ -1,0 +1,7 @@
+.container div {
+    border: 5px solid red;
+    margin: 10px;
+}
+.flex {
+    display: flex;
+}
